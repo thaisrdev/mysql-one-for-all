@@ -117,7 +117,7 @@ VALUES
 
 INSERT INTO SpotifyClone.history (user_id, song_id, listening_date)
 VALUES
-  (1, 8, '2020-02-28 10:45:55'),
+  (1, 8, '2022-02-28 10:45:55'),
   (1, 2, '2020-05-02 05:30:35'),
   (1, 10, '2020-03-06 11:22:33'),
   
